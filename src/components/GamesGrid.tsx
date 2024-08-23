@@ -1,8 +1,8 @@
-import React from 'react'
+import GameCard from './GameCard'
 
 const GamesGrid = () => {
   return (
-    <div>GamesGrid</div>
+    <div><GameCard /></div>
   )
 }
 
